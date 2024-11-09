@@ -3,9 +3,9 @@ import {OhVueIcon, addIcons} from "oh-vue-icons";
 import App from "./App.vue";
 import "./style.css";
 
-import {BiSearch, BiBag, MdArrowrightalt} from "oh-vue-icons/icons";
+import {BiSearch, BiBag, MdArrowrightalt, CoFacebook, CoInstagram} from "oh-vue-icons/icons";
 
-addIcons(BiSearch, BiBag, MdArrowrightalt);
+addIcons(BiSearch, BiBag, MdArrowrightalt, CoFacebook, CoInstagram);
 
 const app = createApp(App);
 app.component("v-icon", OhVueIcon);

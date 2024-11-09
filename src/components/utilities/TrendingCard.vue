@@ -11,7 +11,7 @@ const props = defineProps({
   <div class="card card-compact relative" @mouseover="isHovered = true" @mouseleave="isHovered = false">
     <figure>
       <div v-if="props.job?.old_price" class="badge bg-black text-white text-xs p-4 uppercase absolute top-0 right-0 z-20">Save Tk {{ props.job.old_price - props.job.price }}</div>
-      <img v-if="isHovered" :src="props.job?.sec_img" class="h-96 w-full zoom-in" />
+      <img v-if="isHovered" :src="props.job?.sec_img" class="h-96 zoom-in" />
       <img v-else :src="props.job?.img" class="h-96 w-full" />
     </figure>
     <div class="card-body gap-0">
