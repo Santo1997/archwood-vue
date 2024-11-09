@@ -41,7 +41,7 @@ const swiperOptions = {
       :modules="modules"
       class="mySwiper">
       <swiper-slide>
-        <div class="flex flex-col items-center justify-center border border-red-800 h-72 p-14 bg-white">
+        <div class="flex flex-col items-center justify-center  h-72 p-14 bg-white">
           <div class="rating">
             <input type="radio" name="rating-1" class="mask mask-star" />
             <input type="radio" name="rating-1" class="mask mask-star" />
@@ -55,7 +55,7 @@ const swiperOptions = {
       </swiper-slide>
 
       <swiper-slide>
-        <div class="flex flex-col items-center justify-center border border-red-800 h-72 p-14 bg-white">
+        <div class="flex flex-col items-center justify-center  h-72 p-14 bg-white">
           <div class="rating">
             <input type="radio" name="rating-1" class="mask mask-star" />
             <input type="radio" name="rating-1" class="mask mask-star" />
@@ -69,7 +69,7 @@ const swiperOptions = {
       </swiper-slide>
 
       <swiper-slide>
-        <div class="flex flex-col items-center justify-center border border-red-800 h-72 p-14 bg-white">
+        <div class="flex flex-col items-center justify-center  h-72 p-14 bg-white">
           <div class="rating">
             <input type="radio" name="rating-1" class="mask mask-star" />
             <input type="radio" name="rating-1" class="mask mask-star" />
@@ -83,7 +83,7 @@ const swiperOptions = {
       </swiper-slide>
 
       <swiper-slide>
-        <div class="flex flex-col items-center justify-center border border-red-800 h-72 p-14 bg-white">
+        <div class="flex flex-col items-center justify-center  h-72 p-14 bg-white">
           <div class="rating">
             <input type="radio" name="rating-1" class="mask mask-star" />
             <input type="radio" name="rating-1" class="mask mask-star" />
