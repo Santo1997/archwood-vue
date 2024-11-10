@@ -6,7 +6,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 25000,
     "old_price": 27000,
-    "category": "Seating"
+    "category": "seating"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 32000,
     "old_price": 0,
-    "category": "Desks"
+    "category": "desks"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 40000,
     "old_price": 41000,
-    "category": "DIY"
+    "category": "diy"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 18000,
     "old_price": 0,
-    "category": "Storage"
+    "category": "storage"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 25000,
     "old_price": 27000,
-    "category": "Seating"
+    "category": "seating"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 32000,
     "old_price": 0,
-    "category": "Desks"
+    "category": "desks"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 40000,
     "old_price": 41000,
-    "category": "DIY"
+    "category": "diy"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 18000,
     "old_price": 0,
-    "category": "Storage"
+    "category": "storage"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 25000,
     "old_price": 27000,
-    "category": "Seating"
+    "category": "seating"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 32000,
     "old_price": 0,
-    "category": "Desks"
+    "category": "desks"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 40000,
     "old_price": 41000,
-    "category": "DIY"
+    "category": "diy"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 18000,
     "old_price": 0,
-    "category": "Storage"
+    "category": "storage"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 25000,
     "old_price": 27000,
-    "category": "Seating"
+    "category": "seating"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 32000,
     "old_price": 0,
-    "category": "Desks"
+    "category": "desks"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 40000,
     "old_price": 41000,
-    "category": "DIY"
+    "category": "diy"
   },
   {
     "id": 16,
@@ -141,6 +141,6 @@
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 18000,
     "old_price": 0,
-    "category": "Storage"
+    "category": "storage"
   }
 ]

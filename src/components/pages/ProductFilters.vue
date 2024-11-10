@@ -1,15 +1,17 @@
 <script setup>
 import {ref, reactive, computed, onMounted} from "vue";
+import {useRoute} from "vue-router";
 import axios from "axios";
 import ProductCard from "../utilities/ProductCard.vue";
 
-const selectedTab = ref("Seating");
+const route = useRoute();
+const selectedTab = ref(route.params?.slug);
 const value = ref(50);
 const tabs = [
-  {name: "Seating", label: "Seating"},
-  {name: "Desks", label: "Desks"},
-  {name: "DIY", label: "DIY"},
-  {name: "Storage", label: "Storage"},
+  {name: "seating", label: "Seating"},
+  {name: "desks", label: "Desks"},
+  {name: "diy", label: "DIY"},
+  {name: "storage", label: "Storage"},
 ];
 
 const state = reactive({
@@ -18,12 +20,12 @@ const state = reactive({
 });
 
 const filteredJobs = computed(() => {
-  return state.jobs.filter((job) => job.category === selectedTab.value);
+  return Array.isArray(state.jobs) ? state.jobs.filter((job) => job.category === selectedTab.value) : [];
 });
 
 onMounted(async () => {
   try {
-    const response = await axios.get("./img.json");
+    const response = await axios.get("/img.json");
     state.jobs = response.data;
     state.isLoading = false;
   } catch (error) {
@@ -37,7 +39,7 @@ onMounted(async () => {
   <section class="py-24 px-80">
     <div>
       <div class="text-center">
-        <h1 class="text-4xl font-bold">{{ selectedTab }}</h1>
+        <h1 class="text-4xl font-bold capitalize">{{ selectedTab }}</h1>
         <p class="text-lg mt-5 w-2/3 mx-auto">Looking for the perfect solution for your workspace? Explore our range of products.</p>
       </div>
 

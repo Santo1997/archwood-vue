@@ -12,7 +12,7 @@ const isHovered = ref(false);
         Your browser does not support the video tag.
       </video>
       <div class="hero-overlay bg-opacity-60 absolute inset-0 bg-black"></div>
-      <div class="hero-content text-neutral-content text-center relative z-10">
+      <div class="hero-content text-neutral-content text-center relative z-1">
         <div>
           <h1 class="mb-5 text-7xl text-white font-bold">Invest in yourself.</h1>
           <p class="mb-5 text-2xl text-white">Improve your workspace wellbeing</p>

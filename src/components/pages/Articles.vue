@@ -53,7 +53,7 @@ const prevPage = () => {
         </ul>
 
         <p class="text-base"><strong class="text-lg">Dive deeper:</strong> Explore our recommended ergonomic chairs & share your story!</p>
-        <button class="btn btn-outline border-0 text-base text-white bg-black font-bold mt-6">Continue Reading</button>
+        <RouterLink to="/articles/01"> <button class="btn btn-outline border-0 text-base text-white bg-black font-bold mt-6">Continue Reading</button> </RouterLink>
       </div>
     </div>
 
