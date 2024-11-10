@@ -1,11 +1,14 @@
 <script setup>
+import ViewArticle from "./components/pages/ViewArticle.vue";
+
+// import {RouterView} from "vue-router";
 // import Header from "./components/base/Header.vue";
-import Home from "./components/pages/Home.vue";
-import Footer from "./components/base/Footer.vue";
+// import Footer from "./components/base/Footer.vue";
 </script>
 
 <template>
   <!-- <Header /> -->
-  <Home />
-  <Footer />
+  <!-- <RouterView /> -->
+  <!-- <Footer /> -->
+  <ViewArticle />
 </template>

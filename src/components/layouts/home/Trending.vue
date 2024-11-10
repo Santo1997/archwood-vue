@@ -1,6 +1,6 @@
 <script setup>
 import {onMounted, reactive} from "vue";
-import TrendingCard from "../../utilities/TrendingCard.vue";
+import ProductCard from "../../utilities/ProductCard.vue";
 import axios from "axios";
 
 const state = reactive({
@@ -28,7 +28,7 @@ onMounted(async () => {
     </div>
 
     <div class="mt-8 grid grid-cols-4 gap-2">
-      <TrendingCard v-for="job in state.jobs?.slice(0, state.limit)" :key="job.id" :job="job" />
+      <ProductCard v-for="job in state.jobs?.slice(0, state.limit)" :key="job.id" :job="job" />
     </div>
   </section>
 </template>

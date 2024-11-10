@@ -5,7 +5,8 @@
     "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 25000,
-    "old_price": 27000
+    "old_price": 27000,
+    "category": "Seating"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 32000,
-    "old_price": 0
+    "old_price": 0,
+    "category": "Desks"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 40000,
-    "old_price": 0
+    "old_price": 41000,
+    "category": "DIY"
   },
   {
     "id": 4,
@@ -29,6 +32,115 @@
     "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
     "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
     "price": 18000,
-    "old_price": 0
+    "old_price": 0,
+    "category": "Storage"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Sedan",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 25000,
+    "old_price": 27000,
+    "category": "Seating"
+  },
+  {
+    "id": 6,
+    "name": "Sport Coupe",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 32000,
+    "old_price": 0,
+    "category": "Desks"
+  },
+  {
+    "id": 7,
+    "name": "Electric SUV",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 40000,
+    "old_price": 41000,
+    "category": "DIY"
+  },
+  {
+    "id": 8,
+    "name": "Compact Hatchback",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 18000,
+    "old_price": 0,
+    "category": "Storage"
+  },
+  {
+    "id": 9,
+    "name": "Luxury Sedan",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 25000,
+    "old_price": 27000,
+    "category": "Seating"
+  },
+  {
+    "id": 10,
+    "name": "Sport Coupe",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 32000,
+    "old_price": 0,
+    "category": "Desks"
+  },
+  {
+    "id": 11,
+    "name": "Electric SUV",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 40000,
+    "old_price": 41000,
+    "category": "DIY"
+  },
+  {
+    "id": 12,
+    "name": "Compact Hatchback",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 18000,
+    "old_price": 0,
+    "category": "Storage"
+  },
+  {
+    "id": 13,
+    "name": "Luxury Sedan",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 25000,
+    "old_price": 27000,
+    "category": "Seating"
+  },
+  {
+    "id": 14,
+    "name": "Sport Coupe",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 32000,
+    "old_price": 0,
+    "category": "Desks"
+  },
+  {
+    "id": 15,
+    "name": "Electric SUV",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 40000,
+    "old_price": 41000,
+    "category": "DIY"
+  },
+  {
+    "id": 16,
+    "name": "Compact Hatchback",
+    "img": "https://www.touchwood.store/cdn/shop/products/ronin-477383.jpg",
+    "sec_img": "https://www.touchwood.store/cdn/shop/products/ronin-987497.jpg",
+    "price": 18000,
+    "old_price": 0,
+    "category": "Storage"
   }
 ]

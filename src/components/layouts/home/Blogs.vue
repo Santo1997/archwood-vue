@@ -18,32 +18,4 @@ import BlogCard from "../../utilities/BlogCard.vue";
       <BlogCard />
     </div>
   </section>
-  <div class="divider"></div>
-
-  <section class="py-24 px-80 w-fit grid grid-cols-3 gap-10">
-    <div class="card card-compact shadow-xl">
-      <figure>
-        <img src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp" alt="Shoes" />
-      </figure>
-      <div class="card-body">
-        <h1 class="card-title w-fit mx-auto">Built to Last</h1>
-      </div>
-    </div>
-    <div class="card card-compact shadow-xl">
-      <figure>
-        <img src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp" alt="Shoes" />
-      </figure>
-      <div class="card-body">
-        <h1 class="card-title w-fit mx-auto">Built to Last</h1>
-      </div>
-    </div>
-    <div class="card card-compact shadow-xl">
-      <figure>
-        <img src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp" alt="Shoes" />
-      </figure>
-      <div class="card-body">
-        <h1 class="card-title w-fit mx-auto">Built to Last</h1>
-      </div>
-    </div>
-  </section>
 </template>
