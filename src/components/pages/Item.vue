@@ -209,12 +209,12 @@ onMounted(async () => {
         It is not acceptable to have distractions and discomfort.
       </p>
 
-      <img src="/public/01_details-ronin.jpg" class="h-80 w-80 mt-5" />
+      <img src="/01_details-ronin.jpg" class="h-80 w-80 mt-5" />
 
       <p>2-way adjustable lumbar support allows you to find the most ergonomic depth and height to stay concentrated through marathon sessions.</p>
-      <img src="/public/01_details-ronin.jpg" class="h-80 w-80" />
+      <img src="/01_details-ronin.jpg" class="h-80 w-80" />
       <p>The ultra-wide soft PU arm pads is always providing a resting place even as elbows are busy shifting about.</p>
-      <img src="/public/01_details-ronin.jpg" class="h-80 w-80" />
+      <img src="/01_details-ronin.jpg" class="h-80 w-80" />
       <p>
         In the heat of game, you need to keep your cool to level up. Whether specified with a thermo elastomer webbing or in a breathable mesh material, the backrest prevents heat
         buildup. Why not add more CFM like your gaming rig? Behind the removable vent cover, there are mounting holes for standard-sized CPU fans and space to store a power bank so

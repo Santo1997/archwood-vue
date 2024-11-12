@@ -35,7 +35,7 @@ const prevPage = () => {
   <section class="py-24 px-80">
     <div v-for="(blog, index) in paginatedBlogs" :key="index" class="py-10 flex gap-10 justify-center items-center" :class="index % 2 === 0 && 'flex-row-reverse'">
       <div>
-        <img src="/public/article1.webp" alt="" />
+        <img src="/article1.webp" alt="" />
       </div>
       <div class="px-5">
         <p class="text-sm uppercase mb-3">Dec 27, 2024</p>

@@ -18,6 +18,7 @@ import {
   BiHandThumbsUp,
   BiHandThumbsDown,
   MdDisplaysettings,
+  FaUserAlt,
 } from "oh-vue-icons/icons";
 
 addIcons(
@@ -33,7 +34,8 @@ addIcons(
   BiStarFill,
   BiHandThumbsUp,
   BiHandThumbsDown,
-  MdDisplaysettings
+  MdDisplaysettings,
+  FaUserAlt
 );
 
 const app = createApp(App);

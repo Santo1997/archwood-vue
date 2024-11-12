@@ -6,7 +6,7 @@
       malaysian chair · merryfair · office chair · office workstation · posture · sit stand desk · spine · uplift · Sep 28, 2023
     </p>
     <h1 class="text-4xl font-bold text-center w-3/4 mx-auto">Ergonomic Chairs vs. Gaming Chairs: Why Invest in Ergonomics for Your Health and Productivity</h1>
-    <img src="/public/article1.webp" alt="" class="my-8" />
+    <img src="/article1.webp" alt="" class="my-8" />
 
     <div class="flex flex-col gap-7 text-base">
       <strong class="text-xl">Introduction</strong>

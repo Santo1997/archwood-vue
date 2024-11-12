@@ -5,6 +5,10 @@ import ProductFilters from "../components/pages/ProductFilters.vue";
 import Articles from "../components/pages/Articles.vue";
 import ViewArticle from "../components/pages/ViewArticle.vue";
 import Item from "../components/pages/Item.vue";
+import Login from "../components/pages/Login.vue";
+import Verify from "../components/pages/Verify.vue";
+import Profile from "../components/pages/Profile.vue";
+import Cart from "../components/pages/Cart.vue";
 
 const routes = [
   {path: "/", component: Home, meta: {title: "Home"}},
@@ -13,6 +17,10 @@ const routes = [
   {path: "/articles", component: Articles, meta: {title: "Articles"}},
   {path: "/articles/:slug", component: ViewArticle, meta: {title: "Articles"}},
   {path: "/items/:id", component: Item, meta: {title: "Articles"}},
+  {path: "/login", component: Login, meta: {title: "Login"}},
+  {path: "/verify", component: Verify, meta: {title: "Verify"}},
+  {path: "/profile", component: Profile, meta: {title: "Profile"}},
+  {path: "/cart", component: Cart, meta: {title: "Cart"}},
 ];
 
 const router = createRouter({

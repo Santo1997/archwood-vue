@@ -21,12 +21,12 @@
           <li class="text-white"><RouterLink to="/">Our Story</RouterLink></li>
           <li class="text-white"><RouterLink to="/">Contact</RouterLink></li>
         </ul>
-      </div> 
+      </div>
       <div class="navbar-end justify-center gap-5">
         <v-icon name="bi-search" scale="1.8" fill="#ffffff" />
-        <v-icon name="bi-bag" scale="1.8" fill="#ffffff" />
+        <RouterLink to="/cart"> <v-icon name="bi-bag" scale="1.8" fill="#ffffff" /> </RouterLink>
+        <RouterLink to="/login"> <v-icon name="fa-user-alt" scale="1.8" fill="#ffffff" /> </RouterLink>
       </div>
     </div>
   </header>
 </template>
- 
